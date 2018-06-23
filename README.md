@@ -4,7 +4,7 @@
 
 openFrameworksのofCamera関数を拡張したものです。
 
-また、 @rhizomatiks が開発したDynamic VR Displayの技術もこのアドオンを使うことにより、再現できます。
+また、Rhizomatiksが開発したDynamic VR Displayの技術もこのアドオンを使うことにより、再現できます。
 
 
 
