@@ -16,7 +16,7 @@ openFrameworksのofCamera関数を拡張したものです。
 
 
 
-##Dependency
+## Dependency
 
 ofxOpenCv
 
